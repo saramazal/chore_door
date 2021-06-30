@@ -9,13 +9,13 @@ let door3 = document.getElementById('door3');
 let startButton = document.getElementById('start');
 
 // Variables for pictures of closed and opened doors
-let botDoorPath = "robot.png";
+let botDoorPath = "robot.svg";
 
-let beachDoorPath = "beach.png";
+let beachDoorPath = "beach.svg";
 
-let spaceDoorPath = "start.png";
+let spaceDoorPath = "space.svg";
 
-let closedDoorPath = "closed-door.png";
+let closedDoorPath = "closeddoor.svg";
 
 // variable for starting number of closed doors
 let numClosedDoors = 3;
