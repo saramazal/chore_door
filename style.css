@@ -113,3 +113,24 @@ a {
   color: #aeaeae;
   padding-bottom: 15px;
 }
+
+@media only screen and (max-width: 360px) {
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+  
+ .door-row {
+   width: auto;
+    
+  }
+  .instructions-row {
+    width: 300px;
+  }
+  .door-frame [
+    padding: 5px;
+    padding-bottom: 4px;
+
+  ]
+}

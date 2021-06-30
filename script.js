@@ -9,13 +9,13 @@ let door3 = document.getElementById('door3');
 let startButton = document.getElementById('start');
 
 // Variables for pictures of closed and opened doors
-let botDoorPath = "images/robot.svg";
+let botDoorPath = "https://s3.amazonaws.com/codecademy-content/projects/chore-door/images/robot.svg";
 
-let beachDoorPath = "images/beach.svgbeach.svg";
+let beachDoorPath = "https://s3.amazonaws.com/codecademy-content/projects/chore-door/images/beach.svg";
 
-let spaceDoorPath = "images/space.svg";
+let spaceDoorPath = "https://s3.amazonaws.com/codecademy-content/projects/chore-door/images/space.svg";
 
-let closedDoorPath = "images/closeddoor.svg";
+let closedDoorPath = "https://s3.amazonaws.com/codecademy-content/projects/chore-door/images/closed_door.svg";
 
 // variable for starting number of closed doors
 let numClosedDoors = 3;
