@@ -9,13 +9,13 @@ let door3 = document.getElementById('door3');
 let startButton = document.getElementById('start');
 
 // Variables for pictures of closed and opened doors
-let botDoorPath = "https://github.com/saramazal/magic-door/blob/main/robot.png";
+let botDoorPath = "robot.png";
 
-let beachDoorPath = "https://github.com/saramazal/magic-door/blob/main/beach.png";
+let beachDoorPath = "beach.png";
 
-let spaceDoorPath = "https://github.com/saramazal/magic-door/blob/main/start.png";
+let spaceDoorPath = "start.png";
 
-let closedDoorPath = "https://github.com/saramazal/magic-door/blob/main/closed-door.png";
+let closedDoorPath = "closed-door.png";
 
 // variable for starting number of closed doors
 let numClosedDoors = 3;
