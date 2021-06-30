@@ -13,6 +13,10 @@ h1 {
   font-family: "Josefin Sans", sans-serif;
   color: #010165;
 }
+img {
+  width: 172px;
+  height: auto;
+}
 .header {
   padding: 20px;
   background-color: #00ffff;
@@ -82,6 +86,8 @@ h1 {
 footer {
   display: flex;
   color: #00ffff;
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
 }
 a {
   color: #00ffff;
@@ -105,4 +111,5 @@ a {
 }
 .contact-copy {
   color: #aeaeae;
+  padding-bottom: 15px;
 }
