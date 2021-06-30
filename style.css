@@ -79,3 +79,30 @@ h1 {
 .start-row:hover {
   background-color: #8439f6;
 }
+footer {
+  display: flex;
+  color: #00ffff;
+}
+a {
+  color: #00ffff;
+  text-decoration: none;
+}
+
+#contact {
+  display: block;
+  flex-wrap: wrap;
+  text-align: center;
+}
+.contact-media {
+  padding: 20px;
+}
+.contact-a {
+  padding: 20px;
+}
+.contact-a:hover {
+  color: #fff;
+  text-decoration-line: underline;
+}
+.contact-copy {
+  color: #aeaeae;
+}
